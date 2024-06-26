@@ -20,7 +20,6 @@ use yii\widgets\ActiveForm;
         <?= Html::submitButton('Сохранить', ['class' => 'btn btn-success']) ?>
     </div>
 
-    <?php echo 'first_name' ?>
     <?php ActiveForm::end(); ?>
 
 </div>
